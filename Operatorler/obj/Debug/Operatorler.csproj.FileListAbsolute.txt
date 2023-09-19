@@ -5,3 +5,10 @@ C:\Users\Alp\source\repos\Operatorler\Operatorler\obj\Debug\Operatorler.csproj.A
 C:\Users\Alp\source\repos\Operatorler\Operatorler\obj\Debug\Operatorler.csproj.CoreCompileInputs.cache
 C:\Users\Alp\source\repos\Operatorler\Operatorler\obj\Debug\Operatorler.exe
 C:\Users\Alp\source\repos\Operatorler\Operatorler\obj\Debug\Operatorler.pdb
+C:\Users\Alp\Documents\GitHub\Operatorler\Operatorler\bin\Debug\Operatorler.exe.config
+C:\Users\Alp\Documents\GitHub\Operatorler\Operatorler\bin\Debug\Operatorler.exe
+C:\Users\Alp\Documents\GitHub\Operatorler\Operatorler\bin\Debug\Operatorler.pdb
+C:\Users\Alp\Documents\GitHub\Operatorler\Operatorler\obj\Debug\Operatorler.csproj.AssemblyReference.cache
+C:\Users\Alp\Documents\GitHub\Operatorler\Operatorler\obj\Debug\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\Alp\Documents\GitHub\Operatorler\Operatorler\obj\Debug\Operatorler.exe
+C:\Users\Alp\Documents\GitHub\Operatorler\Operatorler\obj\Debug\Operatorler.pdb
